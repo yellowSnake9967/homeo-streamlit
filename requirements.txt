@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-tavily
+openai
+python-dotenv
+certifi
+PySide6
+pyinstaller
