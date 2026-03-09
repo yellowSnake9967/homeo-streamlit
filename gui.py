@@ -92,7 +92,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Homeopathy Research Assistant")
+st.title("Homeopathy Research Assistant (09-03-2026)")
 
 query = st.text_area(
     "Clinical Case Description:",
@@ -167,3 +167,4 @@ if st.session_state.last_response:
         file_name="homeopathy_analysis.txt",
         mime="text/plain"
     )
+
